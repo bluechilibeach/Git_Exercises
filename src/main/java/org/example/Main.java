@@ -3,6 +3,7 @@ package org.example;
 public class Main {
     static void main() {
         System.out.println("Hello World.");
+        System.out.println("Hello GitHub");
 
         int a = 3;
         int b = 4;
