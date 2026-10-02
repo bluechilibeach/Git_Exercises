@@ -6,6 +6,8 @@ public class Main {
         System.out.println("Hello");
         System.out.println("World");
         System.out.println("Hello GitHub");
+        System.out.println("Hello");
+        System.out.println("World");
 
         int a = 3;
         int b = 4;
